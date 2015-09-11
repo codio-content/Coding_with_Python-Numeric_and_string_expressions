@@ -406,6 +406,23 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "4602e731-d050-a1fa-2ebb-62ea89674f78",
+   "title": "That's all folks",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-20-4602.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
