@@ -1,4 +1,4 @@
-The way you handle inputs and outputs is very similar to Flode. We also offer a way of outputting debug information.
+The way you handle inputs and outputs is very similar to Flode. We also offer a way to run and debug your code before assessing it through a challenge's "Check it!" button.
 
 {Run the code on the left}(python run-user.py 1-intro/io-debug.py)
 
