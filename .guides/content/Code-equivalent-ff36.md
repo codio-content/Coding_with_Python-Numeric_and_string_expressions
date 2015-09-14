@@ -1,4 +1,4 @@
-We have now written the same logic as Javascript code on the left.
+We have now written the same logic as Python code on the left.
 
 {Run the code}(python run-user.py 2-numeric/abc.py)
 
