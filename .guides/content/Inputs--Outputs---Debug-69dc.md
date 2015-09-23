@@ -3,10 +3,14 @@ The way you handle inputs and outputs is very similar to Flode. We also offer a 
 {Run the code on the left}(python3 run-user.py 1-intro/io-debug.py)
 
 ## Inputs
-The coding challenges you will face will require your programs to take in various inputs. You can do this by calling the provided input functions `input0`, `input1`, `input2` etc. They are numbered, starting at 0 and go up to the amount required for the challenge. The input functions expect a default value, something that makes sense for debugging your code, but when your code is checked by the assessment system these functions will return random values to make sure your code handles many scenarious.
+The coding challenges you will face will require your programs to accept various inputs. 
 
-## Debug statements
-To write debug information that is shown to you when your program runs, use the `print` keyword and put any Python expression afterwards.
+In our code on the left, `input0 = input0(3)` sets a value of `3` for `input0`. You can change the value `3` to anything you like when testing your code. The same applies to all other input values. 
+
+Please be sure to use this format for all inputs.
+
+## Debug (print) statements
+To write debug information that is shown to you when your program runs, use the `print()` function, which can be supplied with any Python expression.
 
 ## Outputs
-To output data, use the `output()` function as shown on the left. This can contain any valid Python expressions. Normally all output is done using the print keyword but we wanted a way to seperate things displayed for debugging purposes and things displayed that need to be assessed in challenges. 
+To output data for challenge assessments, use the `output()` function as shown on the left. This can contain any valid Python expression. If you want to output data to the console for debugging purposes, use the `print()` function instead.
