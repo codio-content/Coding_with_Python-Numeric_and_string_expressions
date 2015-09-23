@@ -1,4 +1,4 @@
-To run your code, press this button {Run the code}(python run-user.py addition.py)
+To run your code, press this button {Run the code}(python3 run-user.py addition.py)
 
 ## Challenge 
 {Check It!|assessment}(test-3763781759)

@@ -8,7 +8,7 @@ input2 = input2(5)
 num = input0 * (input1 + input2)
 
 # A debug statement
-print 'num is ' + str(num)
+print('num is ' + str(num))
 
 # Outputs
 output(num)

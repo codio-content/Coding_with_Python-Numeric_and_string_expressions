@@ -1,4 +1,4 @@
-To run your code, press this button {Run the code}(python run-user.py join-string.py)
+To run your code, press this button {Run the code}(python3 run-user.py join-string.py)
 
 {Check It!|assessment}(test-1271833963)
 

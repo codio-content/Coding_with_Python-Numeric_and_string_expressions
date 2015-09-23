@@ -1,4 +1,4 @@
-To run your code, press this button {Run the code}(python run-user.py strnum.py)
+To run your code, press this button {Run the code}(python3 run-user.py strnum.py)
 
 For the challenge below, try various things out and press the Run button to see if they work. With any luck (and some proper thought) you'll get to the solution!
 

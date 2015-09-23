@@ -1,4 +1,4 @@
-Press this button to run the code on the left {Run the code}(python run-user.py escape.py)
+Press this button to run the code on the left {Run the code}(python3 run-user.py escape.py)
 
 {Check It!|assessment}(test-3910093431)
 

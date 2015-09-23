@@ -8,8 +8,8 @@ input2 = input2(5)
 num = input0 * (input1 + input2)
 
 # A debug statement
-print 'This is a debug expressions, with num=' + str(num)
-print 'Below this come the outputs ...'
+print('This is a debug expressions, with num=' + str(num))
+print('Below this come the outputs ...')
 
 # Outputs
 output( num )

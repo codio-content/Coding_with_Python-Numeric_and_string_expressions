@@ -8,4 +8,4 @@ import test
 
 test.test('4-fix/fix1.py', ['Bob'], ['Hello, Bob'])
 
-print 'Well done'
+print('Well done')

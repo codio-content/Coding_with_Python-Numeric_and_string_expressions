@@ -1,4 +1,4 @@
-To run your code, press this button {Run the code}(python run-user.py 4-fix/fix2.py)
+To run your code, press this button {Run the code}(python3 run-user.py 4-fix/fix2.py)
 
 {Check It!|assessment}(test-3617130863)
 
