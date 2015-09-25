@@ -42,6 +42,24 @@
    "teacherOnly": false
   },
   {
+   "id": "37a51303-c99-44f9-bc75-b3f42eb612",
+   "title": "Concatenating strings and numbers",
+   "files": [
+    {
+     "path": "str.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Concatenating-strings-and-numbers-37a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "7325c096-e421-4129-7461-999b829e7e26",
    "title": "Errors",
    "files": [
