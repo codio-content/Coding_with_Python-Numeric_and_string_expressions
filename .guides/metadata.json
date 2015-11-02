@@ -20,6 +20,17 @@
    "teacherOnly": false
   },
   {
+   "id": "3bc338a8-58a1-2ac4-109a-49f069b1e465",
+   "title": "Preparation video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-video-3bc3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
    "title": "Inputs, Outputs & Debug",
    "files": [
@@ -28,7 +39,7 @@
      "action": "close"
     },
     {
-     "path": "1-intro/io-debug.py",
+     "path": "content/1-intro/io-debug.py",
      "panel": 0,
      "action": "open"
     }
@@ -46,7 +57,11 @@
    "title": "Strings and numbers",
    "files": [
     {
-     "path": "str.py",
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenges/str.py",
      "panel": 0,
      "action": "open"
     }
@@ -54,7 +69,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-str---function-37a5.md",
+   "content-file": ".guides/content/Strings-and-numbers-37a5.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -68,7 +83,7 @@
      "action": "close"
     },
     {
-     "path": "1-intro/error.py",
+     "path": "content/1-intro/error.py",
      "panel": 0,
      "action": "open"
     }
@@ -90,7 +105,7 @@
      "action": "close"
     },
     {
-     "path": "experiment.py",
+     "path": "challenges/experiment.py",
      "panel": 0,
      "action": "open"
     }
@@ -112,7 +127,7 @@
      "action": "close"
     },
     {
-     "path": "2-numeric/abc.flode",
+     "path": "content/2-numeric/abc.flode",
      "panel": 0,
      "action": "open"
     }
@@ -136,7 +151,7 @@
      "action": "close"
     },
     {
-     "path": "2-numeric/abc.py",
+     "path": "content/2-numeric/abc.py",
      "panel": 0,
      "action": "open"
     }
@@ -158,7 +173,7 @@
      "action": "close"
     },
     {
-     "path": "addition.py",
+     "path": "challenges/addition.py",
      "panel": 0,
      "action": "open"
     }
@@ -180,7 +195,7 @@
      "action": "close"
     },
     {
-     "path": "abc2.py",
+     "path": "challenges/abc2.py",
      "panel": 0,
      "action": "open"
     }
@@ -189,6 +204,118 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/A--B---C-3--294b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f7772526-9e69-d156-a288-400799b9b51b",
+   "title": "String expressions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "content/3-string/string.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/String-expressions-f777.md",
+   "chapter": true,
+   "reset": [
+    "3-string"
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "3766bf5f-440f-8d18-4309-6aafc3a3bf63",
+   "title": "Code equivalent",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "content/3-string/string.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-equivalent-3766.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
+   "title": " Joining strings",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenges/join-string.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-Joining-strings-abcc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "363d20df-28be-7eaf-5467-911c1940816c",
+   "title": "Joining more strings",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenges/join-string2.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Joining-more-strings-363d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "abe2d821-1377-2298-72ab-10fee0b0b04c",
+   "title": "Strings containing numbers",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenges/strnum.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Strings-containing-numbers-abe2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -221,7 +348,7 @@
      "action": "close"
     },
     {
-     "path": "4-fix/fix1.py",
+     "path": "challenges/fix1.py",
      "panel": 0,
      "action": "open"
     }
@@ -243,7 +370,7 @@
      "action": "close"
     },
     {
-     "path": "4-fix/fix2.py",
+     "path": "challenges/fix2.py",
      "panel": 0,
      "action": "open"
     }
@@ -257,118 +384,6 @@
    "teacherOnly": false
   },
   {
-   "id": "f7772526-9e69-d156-a288-400799b9b51b",
-   "title": "String expressions",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "3-string/string.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/String-expressions-f777.md",
-   "chapter": true,
-   "reset": [
-    "3-string"
-   ],
-   "teacherOnly": false
-  },
-  {
-   "id": "3766bf5f-440f-8d18-4309-6aafc3a3bf63",
-   "title": "Code equivalent",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "3-string/string.py",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Code-equivalent-3766.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
-   "title": " Joining strings",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "join-string.py",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/-Joining-strings-abcc.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "363d20df-28be-7eaf-5467-911c1940816c",
-   "title": "Joining more strings",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "join-string2.py",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Joining-more-strings-363d.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "abe2d821-1377-2298-72ab-10fee0b0b04c",
-   "title": "Strings containing numbers",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "strnum.py",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Strings-containing-numbers-abe2.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "558b3be-a72d-245d-3bf4-84d97bbcb754",
    "title": "Escaping",
    "files": [
@@ -377,7 +392,7 @@
      "action": "close"
     },
     {
-     "path": "3-string/escape.py",
+     "path": "content/3-string/escape.py",
      "panel": 0,
      "action": "open"
     }
@@ -401,7 +416,7 @@
      "action": "close"
     },
     {
-     "path": "escape.py",
+     "path": "challenges/escape.py",
      "panel": 0,
      "action": "open"
     }

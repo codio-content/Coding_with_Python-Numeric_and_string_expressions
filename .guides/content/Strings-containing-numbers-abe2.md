@@ -1,5 +1,3 @@
-To run your code, press this button {Run the code}(python3 run-user.py strnum.py)
-
 For the challenge below, try various things out and press the Run button to see if they work. With any luck (and some proper thought) you'll get to the solution!
 
 {Check It!|assessment}(test-2281574249)
@@ -7,10 +5,13 @@ For the challenge below, try various things out and press the Run button to see 
 |||guidance
 ### Solution
 ```python
-input0 = input0(123)
-input1 = input1(456)
+# Input from the command line
+# converted to an integer
+number1 = int(sys.argv[2])
+number2 = int(sys.argv[3])
 
-result = str(input0) + str(input1)
-output (result)
+# Your code goes here
+result = str(number1) + str(number2)
+print (result)
 ```
 |||

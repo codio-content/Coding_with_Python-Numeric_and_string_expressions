@@ -1,5 +1,3 @@
-To run your code, press this button {Run the code}(python3 run-user.py addition.py)
-
 ## Challenge 
 {Check It!|assessment}(test-3763781759)
 
@@ -7,13 +5,13 @@ To run your code, press this button {Run the code}(python3 run-user.py addition.
 ### Solution
 ```python
 # Inputs
-input0 = input0(3)
+input0 = sys.argv[2]
 
 # Write your code 
 
 num = input0 + 12
 
 # Outputs
-output( num )
+print( num )
 ```
 |||

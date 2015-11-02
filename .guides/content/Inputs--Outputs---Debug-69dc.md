@@ -1,6 +1,6 @@
 The way you handle inputs and outputs is very similar to Flode. We also offer a way to run and debug your code before assessing it through a challenge's "Check it!" button.
 
-{Run the code on the left}(python3 run-user.py 1-intro/io-debug.py)
+{Run the code on the left}(python3 run-user.py content/1-intro/io-debug.py 3 4 5)
 
 ## Inputs
 The coding challenges you will face will require your programs to accept various inputs. 

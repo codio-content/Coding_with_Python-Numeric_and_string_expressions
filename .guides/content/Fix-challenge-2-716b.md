@@ -1,18 +1,17 @@
-To run your code, press this button {Run the code}(python3 run-user.py 4-fix/fix2.py)
-
 {Check It!|assessment}(test-3617130863)
 
 |||guidance
 ### Solution
 ```python 
-# Inputs
-input0 = input0(3)
-input1 = input1(4)
-input2 = input2(7)
+# Input from the command line
+A = sys.argv[2]
+B = sys.argv[3]
+C = sys.argv[4]
 
-num = input0 * (input1 + input2/3)
+# Your code goes here
+num = A * (B + C/3)
 
 # Outputs
-output( num )
+print ( num )
 ```
 |||

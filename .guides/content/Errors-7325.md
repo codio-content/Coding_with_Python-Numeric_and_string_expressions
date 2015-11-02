@@ -4,7 +4,7 @@ Take a look at the code on the left. This shows a simple syntax error.
 
 Now press the button below to run the code and see the error.
 
-{Run the code}(python3 run-user.py 1-intro/error.py)
+{Run the code}(python3 run-user.py content/1-intro/error.py)
 
 Once you have run the code, you will see the error appear.
 

@@ -1,6 +1,6 @@
 Now comes a few words on how to deal with strange characters that you want to insert into your strings.
 
-Press this button to run the code on the left {Run the code}(python3 run-user.py 3-string/escape.py)
+Press this button to run the code on the left {Run the code}(python3 run-user.py content/3-string/escape.py)
 
 ## The ' character
 For example, let's consider the following string

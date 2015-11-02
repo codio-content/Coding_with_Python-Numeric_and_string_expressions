@@ -1,14 +1,14 @@
-Press this button to run the code on the left {Run the code}(python3 run-user.py escape.py)
-
 {Check It!|assessment}(test-3910093431)
 
 |||guidance
 ### Solution
 ```python
-input0 = input0('Bob')
-input1 = input1('Shahneila')
+# Input from the command line
+name1 = sys.argv[2]
+name2 = sys.argv[3]
 
-result = input0 + '\'s done\nand ' + input1 + '\'s done'
-output(result)
+# Your code goes here
+result = name1 + '\'s done\nand ' + name2 + '\'s done'
+print (result)
 ```
 |||

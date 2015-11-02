@@ -1,7 +1,7 @@
 We have now written the same logic as Python code on the left.
 
-{Run the code}(python3 run-user.py 2-numeric/abc.py)
+{Run the code}(python3 run-user.py content/2-numeric/abc.py 3 4 5)
 
 Here's the Flode chart as a reminder.
 
-![](2-numeric/abc-flode.png)
+![](content/2-numeric/abc-flode.png)

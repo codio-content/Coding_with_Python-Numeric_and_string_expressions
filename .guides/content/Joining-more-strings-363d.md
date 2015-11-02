@@ -1,14 +1,12 @@
-To run your code, press this button {Run the code}(python3 run-user.py join-string2.py)
-
 {Check It!|assessment}(test-1902380530)
 
 |||guidance
 ### Solution
 ```python
-input0 = input0('hello')
-input1 = input1('world')
+string1 = sys.argv[2]
+string2 = sys.argv[3]
 
-result = input0 + ' ' + input1
-output (result)
+result = string1 + ' ' + string2
+print (result)
 ```
 |||
