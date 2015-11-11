@@ -1,16 +1,18 @@
+# Get our input from the command line
+digit1 = int(sys.argv[2])
+digit2 = int(sys.argv[3])
+digit3 = int(sys.argv[4])
 
-# Inputs
-input0 = int(sys.argv[2])
-input1 = int(sys.argv[3])
-input2 = int(sys.argv[4])
+# Print out the input
+print ("Here is our input:")
+print ("Input 1 is: " + str(digit1))
+print ("Input 2 is: " + str(digit2))
+print ("Input 3 is: " + str(digit3))
 
-# More code
-num = input0 * (input1 + input2)
+# Do some math
+num = digit1 * (digit2 + digit3)
 
-# A debug statement
-logging.debug('This is a debug expressions, with num=' + str(num))
-logging.debug('Below this come the outputs ...')
-
-# Outputs
+# Now print out the results
+print("Results: ")
 print( num )
 print('This is the second output expression, with num=' + str(num))

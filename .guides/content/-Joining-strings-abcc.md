@@ -6,6 +6,6 @@
 name = sys.argv[2]
 
 result = name + ', hello!'
-output (result)
+print (result)
 ```
 |||

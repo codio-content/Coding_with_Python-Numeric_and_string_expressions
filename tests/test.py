@@ -51,7 +51,8 @@ def test(_file, _inputs, _outputs, _message = 'Not quite right please try again'
     if len(last_line.strip()) > 0:
       outputs.append(last_line)
 
-    #print(outputs)
+    print("<small><b>For Input: </b>" + str(inputs) + "</small>")
+    print(fake_stdout.getvalue())
 
     if len(outputs) != len(_outputs):
       print('Your program is not outputting the expected number of outputs')

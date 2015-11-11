@@ -12,7 +12,7 @@ Once you have run the code, you will see the error appear.
 The error looks pretty unfriendly but the important information is really what comes first.
 
 ```
-name 'notDefinedVariable' is not defined
+name 'digit4' is not defined
 ```
 
-You can see it is telling us that that the variable `notDefinedVariable` is not yet defined.
+You can see it is telling us that that the variable `digit4` is not yet defined.

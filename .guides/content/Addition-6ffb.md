@@ -5,11 +5,11 @@
 ### Solution
 ```python
 # Inputs
-input0 = sys.argv[2]
+N = sys.argv[2]
 
-# Write your code 
+# Write your code here
 
-num = input0 + 12
+num = N + 12
 
 # Outputs
 print( num )

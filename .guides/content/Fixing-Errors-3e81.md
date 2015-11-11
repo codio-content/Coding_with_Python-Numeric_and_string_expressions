@@ -7,5 +7,5 @@ Refer back to the earlier page 'Errors' if you need to refresh your memory on ho
 ## Important!!!
 If, in trying to fix the code for the following challanges, you mess up the code and want it back as it was, you can restore the contents of the 2 fix challenges to their original state by selecting the 'Reset Chapter' option from the 'Settings' menu.
 
-![](.guides/img/reset.png)
+![](.guides/img/reset-red-circle.png)
 

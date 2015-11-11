@@ -4,4 +4,3 @@ name = sys.argv[2]
 
 # Write your code below
 
-
