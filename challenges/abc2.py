@@ -1,8 +1,8 @@
 
 # Inputs from the command line
-A = float(sys.argv[2])
-B = float(sys.argv[3])
-C = float(sys.argv[4])
+import sys
+A = float(sys.argv[1])
+B = float(sys.argv[2])
+C = float(sys.argv[3])
 
 # Write your code 
-

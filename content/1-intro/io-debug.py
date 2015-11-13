@@ -1,7 +1,8 @@
 # Get our input from the command line
-digit1 = int(sys.argv[2])
-digit2 = int(sys.argv[3])
-digit3 = int(sys.argv[4])
+import sys
+digit1 = int(sys.argv[1])
+digit2 = int(sys.argv[2])
+digit3 = int(sys.argv[3])
 
 # Print out the input
 print ("Here is our input:")

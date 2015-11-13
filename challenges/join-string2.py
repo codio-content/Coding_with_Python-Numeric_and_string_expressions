@@ -1,6 +1,7 @@
 
 # Input from the command line
-string1 = sys.argv[2]
-string2 = sys.argv[3]
+import sys
+string1 = sys.argv[1]
+string2 = sys.argv[2]
 
 # Write your code below

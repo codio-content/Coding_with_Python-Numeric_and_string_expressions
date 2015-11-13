@@ -1,5 +1,6 @@
 
 # Input from the command line
-N = sys.argv[2]
+import sys
+N = sys.argv[1]
 
 # Write your code here

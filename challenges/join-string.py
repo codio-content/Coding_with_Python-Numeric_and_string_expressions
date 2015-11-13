@@ -1,6 +1,8 @@
 
 # Input from the command line
-name = sys.argv[2]
+import sys
+name = sys.argv[1]
 
 # Write your code below
 
+print(name + ", hello!")

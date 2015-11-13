@@ -1,6 +1,6 @@
 We have now written the same logic as Python code on the left.
 
-{Run the code}(python3 run-user.py content/2-numeric/abc.py 3 4 5)
+{Run the code}(python3 content/2-numeric/abc.py 3 4 5)
 
 Here's the Flode chart as a reminder.
 
