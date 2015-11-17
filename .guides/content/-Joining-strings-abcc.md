@@ -3,9 +3,12 @@
 |||guidance
 ### Solution
 ```python
-name = sys.argv[2]
 
-result = name + ', hello!'
-print (result)
+# Input from the command line
+import sys
+name = sys.argv[1]
+
+# Write your code below
+print(name + ", hello!")
 ```
 |||

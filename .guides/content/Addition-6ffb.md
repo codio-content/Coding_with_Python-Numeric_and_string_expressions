@@ -5,10 +5,9 @@
 ### Solution
 ```python
 # Inputs
-N = sys.argv[2]
+N = int(sys.argv[2])
 
 # Write your code here
-
 num = N + 12
 
 # Outputs

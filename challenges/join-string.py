@@ -5,4 +5,3 @@ name = sys.argv[1]
 
 # Write your code below
 
-print(name + ", hello!")
