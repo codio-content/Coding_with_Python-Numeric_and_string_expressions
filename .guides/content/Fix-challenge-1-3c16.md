@@ -4,7 +4,8 @@
 ### Solution
 ```python
 # Input from the command line
-name= sys.argv[2]
+import sys
+name= sys.argv[1]
 
 # Your code goes here
 newString = 'Hello, ' + name

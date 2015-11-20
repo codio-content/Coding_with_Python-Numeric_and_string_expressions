@@ -1,5 +1,7 @@
 The way you handle inputs and outputs is very similar to Flode. 
 
+Press the button below to run the code on the left. The results of the program will appear just below the button.
+
 {Run the code on the left}(python3 content/1-intro/io-debug.py 3 4 5)
 
 ## Inputs

@@ -4,8 +4,9 @@
 ### Solution
 ```python
 # Input from the command line
-name1 = sys.argv[2]
-name2 = sys.argv[3]
+import sys
+name1 = sys.argv[1]
+name2 = sys.argv[2]
 
 # Your code goes here
 result = name1 + '\'s done\nand ' + name2 + '\'s done'

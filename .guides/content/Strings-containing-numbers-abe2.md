@@ -7,8 +7,9 @@ For the challenge below, try various things out and press the Run button to see 
 ```python
 # Input from the command line
 # converted to an integer
-number1 = int(sys.argv[2])
-number2 = int(sys.argv[3])
+import sys
+number1 = int(sys.argv[1])
+number2 = int(sys.argv[2])
 
 # Your code goes here
 result = str(number1) + str(number2)
