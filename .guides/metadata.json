@@ -2,7 +2,7 @@
  "sections": [
   {
    "id": "6a17f2f4-3a07-1bd9-5d35-926f5f56a33d",
-   "title": "Introduction to Coding",
+   "title": "Introduction to coding",
    "files": [
     {
      "path": "#tabs",
@@ -12,7 +12,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introduction-to-Coding-6a17.md",
+   "content-file": ".guides/content/Introduction-to-coding-6a17.md",
    "chapter": true,
    "reset": [
     "01-abc"
@@ -21,7 +21,7 @@
   },
   {
    "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
-   "title": "Inputs and Outputs",
+   "title": "Inputs and outputs",
    "files": [
     {
      "path": "#tabs",
@@ -420,7 +420,7 @@
   },
   {
    "id": "4602e731-d050-a1fa-2ebb-62ea89674f78",
-   "title": "That's all folks",
+   "title": "All done!",
    "files": [
     {
      "path": "#tabs",
@@ -430,7 +430,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/That-s-all-folks-4602.md",
+   "content-file": ".guides/content/All-done--4602.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false

@@ -1,19 +1,18 @@
-To concatenate strings together we simply add them like this:
+To concatenate (link together) strings in Python, you add them using the `+` symbol like this:
 
 ```python
 print('a string' + ' and another string')
 ```
 
 ## The `str()` function
-
-To combine strings with numbers and other data types we need to first convert them to a string using the `str()` function. The function takes one value and returns a string representation. If you concatenate without converting non strings types to strings, Python will throw an error! 
+The `str()` function converts numbers or data types to a string. Using this function will allow you to combine a number or data type with a string. The `str()` function takes a value and returns a string representation of that value. If you concatenate without converting a non string data type to a string, you will get an error. 
 
 ```python
 4  aString = str(aNumber)  # this way will work
 5  #aString = aNumber       # this way will fail
 ```
 
-Try removing the `str()` function from the code on the left and run it to see what happens. Just comment out line 4 and uncomment line 5 so that it reads like this:
+Experiment by removing the `str()` function from the code on the left and run it to see what happens. Comment out line 4 and uncomment line 5 so that it reads like this:
 
 ```python
 4  #aString = str(aNumber)  # this way will work

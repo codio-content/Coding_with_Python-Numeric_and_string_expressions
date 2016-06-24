@@ -1,4 +1,4 @@
-**Note**: your arguments are strings unless they are converted into some other type. In this challenge, we are using decimals (`float`) rather than integers (`int`) for our type. So, you will need to tell Python to treat the variables as floating point decimal numbers by putting `float(variable)` in at the correct times.
+**Note**: Your arguments are strings unless they are converted into some other type. In this challenge, we are using decimals (`float`) rather than integers (`int`) for our type. So, you will need to tell Python to treat the variables as floating point decimal numbers by putting `float(variable)` in at the correct times.
 
 {Check It!|assessment}(test-3617130863)
 

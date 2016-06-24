@@ -1,5 +1,5 @@
-Let's start off by showing a Flode chart with a numeric expression.
+Let's start off by looking at a Flode chart that demonstrates a numeric expression.
 
-This simply evaluates the expressions $ A * (B + C) $
+IF you step through the chart you will see that it evaluates the expressions $ A * (B + C) $
 
-On the next page we'll show the exact same code in Python.
+On the next page you will see the same code written in Python.

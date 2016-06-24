@@ -1,1 +1,0 @@
-We're done with basic Python expressions for now. Next, we will cover conditional statements!

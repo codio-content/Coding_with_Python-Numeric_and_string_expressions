@@ -1,0 +1,226 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1271833963",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/join-string-test.sh",
+   "instructions": "We are providing a string as an input to your program. \n\nYour job is to add the string `, hello!` to the string we provide you and then output it.\n\nMake sure you include the space after the comma! ",
+   "name": " Joining strings"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1842827966",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/fix1-test.sh",
+   "instructions": "Fix the broken code. It should output \"Hello, Mike\".",
+   "name": "Fix 1"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1902380530",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/join-string2-test.sh",
+   "instructions": "We will provide 2 strings to your program. \n\nYour job is to join the strings together so you get a single string with a space between the 2 original strings. \n\nThis is a common case is coding and you will need to create your output by joining the inputs and adding the space in the middle. ",
+   "name": "Joining more strings"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2039942507",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "You are provided with 2 input values which determine the speed of 2 cars. \n\nIf either car is travelling at more than 70 then output ‘fast cars'. Otherwise output 'ok'.",
+   "name": "Fast Cars 1"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2100988232",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/abc2-test.sh",
+   "instructions": "We pass in three inputs, $ A $, $ B $ and $ C $.\n\nYou should output $ A * (B + \\frac{C}{3}) $.",
+   "name": "A*(B + C/3)"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2281574249",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/strnum-test.sh",
+   "instructions": "We are passing in two **numbers** as inputs. You should join them together into a single string.\n\n**Tip:** if you simply add these numbers together, they will be added together as numbers, not a string. You have already seen how to make sure they are added together as strings, can you remember? \n",
+   "name": "Strings containing numbers"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2383491788",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "This challenge is the other way round. \n\nWe provide you with a string input that is either 'true' or 'false'. You should output a number 1 if 'true' or 0 if 'false'.",
+   "name": "True or False"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3029070503",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/abc2-test.sh",
+   "instructions": "We pass in three inputs, $ A $, $ B $ and $ C $.\n\nYou should output $ A * (B + \\frac{C}{3}) $.",
+   "name": "A*(B + C/3)"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3417544426",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "You are provided with a person’s age and you need to determine which school level the person falls within. \n\n- If 6 to 11 output ‘primary school’ \n- If 12 to 18 output ‘secondary school’\n- If neither, then output ‘NA’\n\nThis challenge requires you to use and `if`, an `else if` and an `else` statement\n\n**Tip** : to help check the ranges, you should should check the lower end of each range in each decision and then branch from there. \n\nRemember `<=` and `>=`? You should use them.",
+   "name": "Categories"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3617130863",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/fix2-test.sh",
+   "instructions": "Fix the broken code on the left.",
+   "name": "Fix 2"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3763781759",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/addition-test.sh",
+   "instructions": "Your code should expect one input. All you need to do is add 12 to it and output the result.\n",
+   "name": "Addition"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3910093431",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/escape-test.sh",
+   "instructions": "We pass in 2 strings, *name1* and *name2*. You should output another string in the format\n\n```javascript\nname1's done\nand name2's done\n```\n-  with a new line between the two\n- and where name1 and name2 are replaced with the input string\n\n**Important:** getting spaces right is really important here. Don't add any extra spaces by mistake.",
+   "name": "Escaped strings"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-393850037",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "You are provided with 2 input values which determine the speed of 2 cars. \n\n- If both cars are travelling at more than 70 then output ‘2 fast cars'\n- If one car only is moving at more than 70, output '1 fast cars'\n- Otherwise output 'no fast cars'",
+   "name": "Fast Cars 2"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4186476499",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "You are provided with a number input which will be either 1 or 0. \n\nIf the number is 1, output ‘On’, if 0 output ‘Off’.",
+   "name": "1 or 0"
+  }
+ }
+]

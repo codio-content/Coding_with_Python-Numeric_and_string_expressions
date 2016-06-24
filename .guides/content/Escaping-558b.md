@@ -1,23 +1,24 @@
-Now comes a few words on how to deal with strange characters that you want to insert into your strings.
+Sometimes you will need to use special characters in your strings which Python would normally recognise as code. To do this you should "escape" the characters, which means telling Python not to interpret them as code, but as a string element instead.
 
-Press this button to run the code on the left {Run the code}(python3 content/3-string/escape.py)
+Press this button to run the code on the left
+{Run the code}(python3 content/3-string/escape.py)
 
-## The ' character
-For example, let's consider the following string
+## The `'` character
+Look at the following string:
 
 ```python
 This is Shahneila's PC
 ```
 
-We cannot code this as 
+We are not able to code this as: 
 
 ```python
 str = 'This is Shahneila's PC'
 ```
 
-as Python thinks that the `'` in `Shahneila's` is the end of the string.
+because Python thinks that the `'` in `Shahneila's` is the end of the string.
 
-Instead we have to *escape* the character. This lets Python know what we really intend.
+The solution is to *escape* the character. This lets Python know that we want to use the `'` as part of the string.
 
 ```python
 str = 'This is Shahneila\'s PC'
@@ -26,9 +27,11 @@ str = 'This is Shahneila\'s PC'
 You can see how we put the `\` character before the `'`. This is know as *escaping* the character.
 
 ## Inserting a new line
-Another useful scenario for escaping is when you want to insert and new line into your text (also know as a *carriage return* from the days of typewriters).
+Another time you might find escaping useful is when you want to insert a new line into your text.
 
-Look at the code on the left and you can see we use the `\n` escape to achieve this.
+Look at the code on the left and you can see that `\n` escape is used to insert a new line.
+
+(The `\n` for *newline* or *line feed* and `\r` for *carriage return* are from the days of electric typewriters. A *carriage return* slides the assembly back to the start of the line and *line feed* moves down one line.)
 
 ## Useful escapes
 The following list shows you some typical uses of escaped characters. 
