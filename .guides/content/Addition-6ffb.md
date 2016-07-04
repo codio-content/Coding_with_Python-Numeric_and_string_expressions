@@ -1,4 +1,4 @@
-## Challenge 
+## Challenge
 {Check It!|assessment}(test-3763781759)
 
 |||guidance
@@ -6,7 +6,7 @@
 ```python
 # Inputs
 import sys
-N = int(sys.argv[2])
+N = int(sys.argv[1])
 
 # Write your code here
 num = N + 12

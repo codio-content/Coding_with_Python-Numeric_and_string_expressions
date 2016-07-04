@@ -1,5 +1,3 @@
-
-# Input from the command line
 import sys
 N = int(sys.argv[1])
 
